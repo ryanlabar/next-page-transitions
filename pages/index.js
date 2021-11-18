@@ -20,6 +20,7 @@ const Hero = styled.section`
     left: 0;
     height: 100%;
     width: 100%;
+    object-fit: cover;
     filter: saturate(.7) contrast(1.2) brightness(1.2);
     opacity: .7;
   }
